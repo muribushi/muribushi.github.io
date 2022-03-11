@@ -1,0 +1,22 @@
+/* commn */
+
+body {
+  background: antiquewhite;
+  
+}
+
+h2 {
+  margin-top: 32px;
+}
+
+p {
+  line-height: 2;
+}
+
+/* header */
+
+header {
+  background: aqua;
+  /* text-align: center; */
+}
+
